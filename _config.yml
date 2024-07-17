@@ -1,0 +1,20 @@
+theme: minima
+
+# Your other configuration settings...
+
+# Adding navigation links
+navbar:
+  - title: Home
+    url: /
+  - title: Table of Contents
+    url: /toc
+  - title: Introduction
+    url: /introduction
+  - title: Getting Started
+    url: /getting_started
+  - title: Usage
+    url: /usage
+  - title: Contributing
+    url: /contributing
+  - title: License
+    url: /license
